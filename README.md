@@ -1,4 +1,6 @@
-# Advent of Code Swift Starter Project
+# Advent of Code 2025 in Swift by Robbie Murray
+
+Based on the starter template at [swiftlang/swift-aoc-starter-example](https://github.com/swiftlang/swift-aoc-starter-example)
 
 [![Language](https://img.shields.io/badge/language-Swift-red.svg)](https://swift.org)
 
